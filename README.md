@@ -1,6 +1,7 @@
 ## Hello there
+I am Imo 
 
-I am on my journey to become a web-developer/programmer/everything-developer
+And I'm on my journey to become a web-developer/programmer/everything-developer
 😄
 
 #### These are my stats
